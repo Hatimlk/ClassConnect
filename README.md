@@ -2,6 +2,9 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-En%20production-green)
+[![Deploy with Vercel](https://vercel.com/button)](https://class-connect-six.vercel.app/)
+
+🚀 **Live Demo:** [https://class-connect-six.vercel.app/](https://class-connect-six.vercel.app/)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
